@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AP4</string>
+    <string name="login_title">Connexion</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login_button">Se connecter</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="login_success">Connexion réussie</string>
+    <string name="login_failed">Veuillez remplir tous les champs</string>
+    <string name="user_page_title">Page Utilisateur</string>
+    <string name="admin_page_title">Page Administrateur</string>
+    <string name="create_admin">Créer un administrateur</string>
+</resources>
